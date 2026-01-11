@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there , I'm Monis Iqbal
 
-<!--
-**monis-iqbal-io/monis-iqbal-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. (Honours) Mathematics** | Minor in Computer Science  
+📊 **Data Science & Data Analytics**
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+I hold a **B.Sc. (Honours) in Mathematics** with a **minor in Computer Science**, with a strong foundation in analytical thinking, logical reasoning, and structured problem-solving.
+
+I am currently building my career in **Data Science and Data Analytics**, developing hands-on skills in **Python, SQL, and Excel**, along with statistical and analytical techniques. I enjoy working with data to uncover patterns, derive insights, and support data-driven decision-making.
+
+As a continuous learner, I focus on strengthening my practical skills through consistent practice, projects, and real-world problem-solving.
+
+---
+
+##  Technical Skills
+
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA)  
+- **Databases:** SQL  
+- **Tools:** Excel, GitHub  
+- **Core Strengths:** Statistics, Mathematical Reasoning, Problem Solving  
+
+---
+
+##  Areas of Interest
+
+- Data Science  
+- Data Analytics  
+- Statistical Analysis  
+- Data-Driven Decision Making  
+
+---
+
+##  Current Focus
+
+- Improving Python and SQL proficiency  
+- Practicing data analysis on real datasets  
+- Strengthening statistical foundations for analytics  
+
+---
+##  Connect With Me
+
+- **LinkedIn:** [Monis Iqbal](https://www.linkedin.com/in/monis-iqbal-684a361a1)
+- **Email:** monisiqbal07@gmail.com
+- **ORCID:** https://orcid.org/XXXX-XXXX-XXXX-XXXX
+
+⭐ *Always learning, improving, and building towards a career in data-driven fields.*
