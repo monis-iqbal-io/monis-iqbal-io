@@ -48,20 +48,21 @@ As a continuous learner, I focus on strengthening my practical skills through co
 - Practicing data analysis on real datasets  
 - Strengthening statistical foundations for analytics
 
-- 
-##  Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/monis-iqbal-684a361a1" target="_blank">
+  <a href="https://www.linkedin.com/in/monis-iqbal-684a361a1" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="mailto:monisiqbal07@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+  <a href="mailto:monisiqbal07@gmail.com" style="margin-right: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" />
   </a>
   <a href="https://orcid.org/0009-0006-3341-3073" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="40" />
   </a>
 </p>
+
+
 
 
 ⭐ *Always learning, improving, and building towards a career in data-driven fields.*
